@@ -5,7 +5,7 @@ Requires API level 19 as a minimum!
 
 ## install
 ```
-usage_states:
+usage_permission:
       git:
         url: https://github.com/imagination24/usage_permission.git
 ```
